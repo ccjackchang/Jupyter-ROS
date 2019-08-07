@@ -14,10 +14,12 @@ arg-jupyter-ros is based on https://github.com/RoboStack/jupyter-ros
 ### Run jupyter notebook
 
 In the docker:
+
     $ cd /
     $ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 
 On your host:
+
     open web browser
     type 127.0.0.1:8888
 
