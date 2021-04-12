@@ -1,5 +1,6 @@
-# arg-jupyter-ros
-arg-jupyter-ros is based on https://github.com/RoboStack/jupyter-ros
+# jupyter-ros
+jupyter-ros is based on https://github.com/RoboStack/jupyter-ros
+Visulize ros in jupyter notebook
 
 ## How to use jupyter-ros
 
